@@ -1,7 +1,11 @@
 
+h1{
+  text-align: center;
+  color: blue;
+  font-family: serif;
 
-#reservationlink {
-font-size: 20px
+h2{
+
 }
 
 .mainimg {
@@ -20,4 +24,11 @@ font-size: 20px
     position:absolute;
     margin-right: 200px;
     width: 100px;
+}
+}
+#reservationlink {
+font-size: 20px
+}
+#address {
+
 }
